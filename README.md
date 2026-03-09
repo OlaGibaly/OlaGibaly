@@ -5,28 +5,29 @@
 ---
 
 ## 👩‍💻 About Me
-- Software Testing Engineer
+- Software Test Engineer at **Vodafone Intelligent Solutions (VOIS)**
+- Graduate of **Misr University for Science and Technology (MUST)**  
+  Bachelor’s Degree in **Mechatronics Engineering**
 - ISTQB Certified (CTFL4 & CTGenAI)
-- Certified SAFe® 6 Practitioner (Working in a SAfe Agile environment)
-- Experienced in Manual Testing
-- Learning Automation Testing (Selenium + Java)
+- Certified **SAFe® 6 Practitioner** (working in a SAFe Agile environment)
+- Experienced in **Manual Testing, SQL Data Validation, and Test Case Design**
+- Currently expanding into **Automation Testing with Selenium & Java**
 
 ---
 
-## 🛠 Skills
-- Manual Testing
-- SQL, Java, Python, C 
-- Jira
-- Test Case Design
-- Automation Testing With Selenium (learning)
+## 🛠 Skills & Tools
 
----
-
-## 📚 Currently Learning
-- Automation Testing With Selenium
-- Test Automation Frameworks
-- Data Testing
-- Performance Testing
+![SQL](https://img.shields.io/badge/SQL-Data%20Testing-blue?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-Bug%20Tracking-blue?style=for-the-badge&logo=jira)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge&logo=selenium)
+![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-Programming-grey?style=for-the-badge&logo=c)
+![Manual Testing](https://img.shields.io/badge/Manual-Testing-lightgrey?style=for-the-badge)
+![Test Cases](https://img.shields.io/badge/Test%20Case-Design-yellow?style=for-the-badge)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-IDE-black?style=for-the-badge&logo=intellijidea)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visualstudiocode)
+![SAFe Agile](https://img.shields.io/badge/SAFe-Agile-red?style=for-the-badge)
 
 ---
 
