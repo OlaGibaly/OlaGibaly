@@ -17,6 +17,7 @@
 
 ## 🛠 Skills & Tools
 I work with:
+
 ![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-Programming-grey?style=for-the-badge&logo=c)
