@@ -16,18 +16,18 @@
 ---
 
 ## 🛠 Skills & Tools
-
-![SQL](https://img.shields.io/badge/SQL-Data%20Testing-blue?style=for-the-badge)
-![Jira](https://img.shields.io/badge/Jira-Bug%20Tracking-blue?style=for-the-badge&logo=jira)
-![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge&logo=selenium)
+I work with:
 ![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-Programming-grey?style=for-the-badge&logo=c)
-![Manual Testing](https://img.shields.io/badge/Manual-Testing-lightgrey?style=for-the-badge)
-![Test Cases](https://img.shields.io/badge/Test%20Case-Design-yellow?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Data%20Testing-blue?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge&logo=selenium)
+![Jira](https://img.shields.io/badge/Jira-Bug%20Tracking-blue?style=for-the-badge&logo=jira)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-IDE-black?style=for-the-badge&logo=intellijidea)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visualstudiocode)
 ![SAFe Agile](https://img.shields.io/badge/SAFe-Agile-red?style=for-the-badge)
+![Manual Testing](https://img.shields.io/badge/Manual-Testing-lightgrey?style=for-the-badge)
+![Test Cases](https://img.shields.io/badge/Test%20Case-Design-yellow?style=for-the-badge)
 
 ---
 
