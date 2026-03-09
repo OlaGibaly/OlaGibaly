@@ -31,7 +31,7 @@
 ---
 
 ## 📫 Contact Me
-- LinkedIn: https://www.linkedin.com/in/olaelgibaly/
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ola-gibaly/)
 - Email: olaelgibaly@gmail.com
 <!--
 **OlaGibaly/OlaGibaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
